@@ -6,8 +6,8 @@
 - Born in Bronx New York → Raised in Bronx New York → Currently in Bronx New York.
 - Outside of work I like to play games with friends, crochet,listen to music, and do Graphic design.
 - Let's connect via email: Tainomendez1@gmail.com
--Lets connect via Linkedin : Taino Mendez
-- Alway open to talk just reach out and i will respond asap.
+- Lets Connect via Linkedin: Taino Mendez
+- I am Always open to talk just reach out and i will respond asap.
 ## Tech Stack:
 
 ### Languages
