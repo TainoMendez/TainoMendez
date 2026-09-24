@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Taino Mendez 👋
 
-<!--
-**TainoMendez/TainoMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Bronx New York → Raised in Bronx New York → Currently in Bronx New York.
+- Outside of work I like to play games with friends, crochet,listen to music, and do Graphic design.
+- Let's connect via email: Tainomendez1@gmail.com
+-Lets connect via Linkedin : Taino Mendez
+- Alway open to talk just reach out and i will respond asap.
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+
+### Frameworks & Libraries
+
+
+### Tools
+
+- Git
+- GitHub
